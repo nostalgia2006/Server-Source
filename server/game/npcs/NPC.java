@@ -26,7 +26,7 @@ public class NPC extends Mobile {
 	private Tile currentTile;
 	public long singleCombatDelay = 0;
 
-	/**
+	/** TEST COMMIT
 	 * attackType: 0 = melee, 1 = range, 2 = mage
 	 */
 	public int attackType, projectileId, endGfx, spawnedBy, hitDelayTimer, HP, MaxHP, hitDiff, animNumber, actionTimer, enemyX, enemyY;
