@@ -15,7 +15,7 @@ import core.util.Stream;
 
 public abstract class Player extends Mobile {
     public abstract void updateWalkEntities();
-
+	//sdfqsdfqsjdifnp  sidfnqsdfnqsdfisdf
     // Report stuff
     public long lastReport = 0;
     String lastReported = "";
