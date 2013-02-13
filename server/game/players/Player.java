@@ -34,7 +34,7 @@ public abstract class Player extends Mobile {
     public long lastTeleport;
     public long miscTimer;
 	public  BankPins.State state = BankPins.State.ONE;
-
+	//This is a github test
 	public  String enteredPin = "";
 
 	public  String fullPin = "";
